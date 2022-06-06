@@ -20,7 +20,7 @@ fn main() {
     let mut temp;
 
     for i in 0..number {
-        // need first 2 numbers to be 0 and 1 so i had to do it like this
+        // need first 2 numbers to be 0 and 1 so i had to do it like this.
         match i {
             0 => println!(),
             1 => println!("0"),
