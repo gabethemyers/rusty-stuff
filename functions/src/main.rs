@@ -3,7 +3,7 @@ fn five() -> i32 {
 }
 
 fn main() {
-    let x = five();
+    let _x = five();
 
     println!("The value of x is: {}", five());
 }
